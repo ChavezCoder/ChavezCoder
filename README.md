@@ -26,12 +26,12 @@ Interactive desktop application developed with **Python** and **Tkinter** that f
 ### 🧑‍🎓 [Student Management REST API](https://github.com/ChavezCoder/Python-Proyects/tree/main/Student%20Management%20REST%20API)
 A Flask REST API that interacts with MySQL using `mysql-connector-python`, tracking all interactions with Git version control
 - **Technologies:** `Python`,`MySQL`, `Flask`, `Git`
-- [Source Code](https://github.com/ChavezCoder/Python-Proyects/tree/main/Student%20Management%20REST%20API)
+- 🔗 [Source Code](https://github.com/ChavezCoder/Python-Proyects/tree/main/Student%20Management%20REST%20API)
 
 ### 🧠 [Quiz Game](https://github.com/ChavezCoder/JavaScript-Projects/tree/main/Quizgame)
-A command-line game built in JavaScript and Node.js
+An interactive command-line quiz game built in using vanilla JavaScript and Node.js
 - **Technologies:** `JavaScript`, `Node.js`
-- [Source Code](https://github.com/ChavezCoder/JavaScript-Projects/tree/main/Quizgame)
+- 🔗 [Source Code](https://github.com/ChavezCoder/JavaScript-Projects/tree/main/Quizgame)
 ---
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pablo-manuel-chavez-silva-a32a193b1/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandropablochavezsilva@gmail.com)
